@@ -5,12 +5,7 @@
 <div id="details">
   <header>
     <div id="icon">
-      <img
-        src="/public/friend.png"
-        width="64px"
-        height="64px"
-        alt="Dog friend icon"
-      />
+      <img src="/friend.png" width="64px" height="64px" alt="Dog friend icon" />
     </div>
     <h1>Friendship Level Up!</h1>
   </header>
